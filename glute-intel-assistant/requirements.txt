@@ -1,0 +1,7 @@
+streamlit
+openai
+pydrive2
+transformers
+pandas
+matplotlib
+Pillow
